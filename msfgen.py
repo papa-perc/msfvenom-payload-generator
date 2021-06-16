@@ -1,6 +1,7 @@
 # this script generates metasploit payloads without you having to remember all the msfvenom commands
 # doesn't allow for obfuscation or any fancy stuff like that, just raw payloads
 # first time coding something somewhat useful in python, this may come in handy if you're short on time and you need a payload asap
+# note - all payloads can be found in the /proc/ folder in the file system, just search for whatever you named it as
 # im not responsible for anything you do with this program and i don't condone any illegal activity
 # - papa.
 
